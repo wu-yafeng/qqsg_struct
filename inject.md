@@ -79,3 +79,7 @@ BOOL WINAPI DllMain(HMODULE hModule, DWORD dwReason, PVOID pvReserved)
 一切就绪，运行QQ三国程序，选择大区后点击进入游戏。
 
 稍后在游戏界面将连续弹窗：注入成功->退出成功->注入成功->退出成功
+
+## 检测
+
+2023-01-04  已证实此技术被Tenprotect反作弊检测
